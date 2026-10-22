@@ -1,8 +1,35 @@
 {
-  "2026-10-11|Williams/Purdy|180": ["https://lilboreal.github.io/picks/shots/2026-10-11-williams-purdy-180.jpg"],
-  "2026-10-11|Wilson/Allen|110": ["https://lilboreal.github.io/picks/shots/2026-10-11-wilson-allen-110.jpg", "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"],
-  "2026-10-11|Holani/Henry|97": ["https://lilboreal.github.io/picks/shots/2026-10-11-holani-henry-97.jpg", "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"],
-  "2026-10-11|Wilson/Allen|60": ["https://lilboreal.github.io/picks/shots/2026-10-11-wilson-allen-60.jpg", "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"],
-  "2026-10-11|Javonte/Tuten|360": ["https://lilboreal.github.io/picks/shots/2026-10-11-javonte-tuten-360.jpg"],
-  "2026-10-18|Olave/Herbert|180": ["https://lilboreal.github.io/picks/shots/2026-10-18-olave-herbert-180.jpg"]
+  "2026-10-11|Williams/Purdy|180": [
+    "https://lilboreal.github.io/picks/shots/2026-10-11-williams-purdy-180.jpg"
+  ],
+  "2026-10-11|Wilson/Allen|110": [
+    "https://lilboreal.github.io/picks/shots/2026-10-11-wilson-allen-110.jpg",
+    "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"
+  ],
+  "2026-10-11|Holani/Henry|97": [
+    "https://lilboreal.github.io/picks/shots/2026-10-11-holani-henry-97.jpg",
+    "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"
+  ],
+  "2026-10-11|Wilson/Allen|60": [
+    "https://lilboreal.github.io/picks/shots/2026-10-11-wilson-allen-60.jpg",
+    "https://lilboreal.github.io/picks/shots/2026-10-11-overview.jpg"
+  ],
+  "2026-10-11|Javonte/Tuten|360": [
+    "https://lilboreal.github.io/picks/shots/2026-10-11-javonte-tuten-360.jpg"
+  ],
+  "2026-10-18|Olave/Herbert|180": [
+    "https://lilboreal.github.io/picks/shots/2026-10-18-olave-herbert-180.jpg"
+  ],
+  "2026-10-21|Kuminga 0.5+ 3PM|163": [
+    "https://lilboreal.github.io/picks/shots/2026-10-21-kuminga-05-3pm-163.jpg"
+  ],
+  "2026-10-21|Kuminga 1.5+ 3PM|2571": [
+    "https://lilboreal.github.io/picks/shots/2026-10-21-kuminga-15-3pm-2571.jpg"
+  ],
+  "2026-10-21|Adebayo 0.5+ 3PM|265": [
+    "https://lilboreal.github.io/picks/shots/2026-10-21-adebayo-05-3pm-265.jpg"
+  ],
+  "2026-10-21|Mitchell 0.5+ 3PM|84": [
+    "https://lilboreal.github.io/picks/shots/2026-10-21-mitchell-05-3pm-84.jpg"
+  ]
 }
